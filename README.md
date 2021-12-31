@@ -1,6 +1,6 @@
 # Functionality Functions
 
-A repository to place a variety of functions/methods thay me be needed in later projects, they would not have any prourpose aside from being useful and to reduce possible programming time.
+A repository to place a variety of functions/methods that may be needed in later projects, they would not have any purpose aside from being useful and reducing possible programming time.
 
 ## Python 
 The FuncPython folder contains: 
